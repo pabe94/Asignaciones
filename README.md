@@ -19,3 +19,7 @@ https://twitter.com/LVPibai
 Mostraremo ejemplod e su uso
 
     $.echoforms.control(MyControl)
+    
+#Titulo 1
+##Titulo2
+###Titulo3
