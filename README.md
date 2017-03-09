@@ -13,3 +13,5 @@ Funciones:
 #[Twitter] (https://twitter.com/PoGoMDev)
 
 [![Deploy]
+
+[Map](https://raw.githubusercontent.com/AHAAAAAAA/PokemonGo-Map/master/static/cover.png)
