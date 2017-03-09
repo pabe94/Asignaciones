@@ -1,4 +1,4 @@
-# Proyecto Asignaciones [C++]
+# Proyecto Asignaciones[C++]
 
 > Pablo Martínez Ruano
 
