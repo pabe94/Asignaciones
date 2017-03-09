@@ -1,5 +1,5 @@
-Proyecto Asignaciones
-============
+# Proyecto Asignaciones [C++]
+
 > Pablo Martínez Ruano
 
 Proyecto de realizado con Symfony3, en el cual trabajeremos con un IDE en la nube (Cloud9) 
