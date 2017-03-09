@@ -17,4 +17,5 @@ Funciones:
 https://twitter.com/LVPibai
 
 Mostraremo ejemplod e su uso
-  $ls -l;
+
+    $.echoforms.control(MyControl)
