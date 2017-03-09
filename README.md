@@ -10,8 +10,10 @@ Funciones:
 * Dar baja o alta
 * Asignar tareas
 
-#[Twitter](https://twitter.com/LVPibai))
+#[Twitter](https://twitter.com/LVPibai)
 
 [![Deploy]
 
 https://twitter.com/LVPibai
+
+$ls -l
