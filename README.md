@@ -10,8 +10,8 @@ Funciones:
 * Dar baja o alta
 * Asignar tareas
 
-#[Twitter] (https://twitter.com/PoGoMDev)
+#[Twitter] (Map](https://twitter.com/LVPibai))
 
 [![Deploy]
 
-[Map](https://raw.githubusercontent.com/AHAAAAAAA/PokemonGo-Map/master/static/cover.png)
+https://twitter.com/LVPibai
