@@ -9,3 +9,5 @@ Funciones:
 * Muestra recursos
 * Dar baja o alta
 * Asignar tareas
+
+#[Twitter] (https://twitter.com/PoGoMDev)
