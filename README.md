@@ -16,4 +16,5 @@ Funciones:
 
 https://twitter.com/LVPibai
 
-$ls -l
+Mostraremo ejemplod e su uso
+  $ls -l;
